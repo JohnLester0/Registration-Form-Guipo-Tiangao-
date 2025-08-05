@@ -17,7 +17,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #333;
   padding: 20px;
-   background: linear-gradient(135deg, #71b7e6,#9b59b6);
+   background: linear-gradient(135deg, #2A7B9B, #57C785, #EDDD53);
 }
 
 .container h2 {
@@ -112,5 +112,6 @@ select {
 .submit-button button:hover {
   background-color: #4a8bd4;
 }
+
 
 
